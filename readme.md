@@ -1,5 +1,5 @@
 # Hero Kidzz - Project Assets
-##Live URL: https://hero-kidz-kohl.vercel.app/
+## Live URL: https://hero-kidz-kohl.vercel.app/
 <img src="assets/hero.png">
 ## Overview
 
