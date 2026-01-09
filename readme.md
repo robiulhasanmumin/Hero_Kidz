@@ -1,7 +1,7 @@
 # Hero Kidzz - Project Assets
 ## Live URL: https://hero-kidz-kohl.vercel.app/
-<img src="assets/hero.png">
-## Overview
+
+ ## Overview
 
 Hero Kidzz is a small, single-vendor e-commerce web application designed for selling children's products. This repository contains all project assets including images, icons, and media files.
 
